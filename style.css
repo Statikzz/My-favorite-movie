@@ -57,5 +57,10 @@ img{
     margin-bottom: 15px;
 
 }
+.BG{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
     
 }
