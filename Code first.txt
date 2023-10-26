@@ -1,0 +1,29 @@
+<!-- index.html (homepage)-->
+<!DOCTYPE html>
+<html>
+    <head<link rel=""stylesheet" type="text/css" href=""styles.css">
+</head>
+<body background="Background.jfif">
+    <header>
+        <h1><font color="#ffffff"> My Favorite Movies</h1> </font>
+        <nav>
+            <ul>
+                <li><a
+
+href="weatheringwithyou.html"><p style="font-size: 25px">Weathering with you</a></li> <img class="pics-OIP" src="pics/OIP.jfif" alt="OIP" height="600" /></p> 
+<li><a 
+href="percyjackson.html"><p style="font-size: 25px">Percy Jackson</a></li><img class="pics-R" src="pics/R.jfif"height="600" /></p>
+<li><a alt="R" 
+href="yourname"><p style="font-size: 25px">Your name</a></li><img class="pics-356628" src="pics/356628.jpg" height="600" /></p>
+<li><a
+ href="kingsman.html"><p style="font-size: 25px">Kingsman</a></li><img src="pics/OIP (1).jfif" height="600" /></p>
+    <li><a
+href="onepiecestampede.html"><p style="font-size: 25px">One Piece Stampede</a></li><img src="pics/OIP (2).jfif" height="600" /></p>
+        </ul>
+        </nav>
+    </header>
+
+
+    
+</body>
+</html>

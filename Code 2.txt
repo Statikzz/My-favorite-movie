@@ -1,0 +1,12 @@
+<!-- index.html (homepage)-->
+<!DOCTYPE html>
+<html>
+    <head<link rel=""stylesheet" type="text/css" href=""styles.css">
+    <link rel="stylesheet" href="style.css"
+</head>
+<body background="BG.jpg">
+    <header>
+        <h1 align="Center"><font color="#2b858b"><p style="font-size: 50px"> Weathering With you</h1></p> </font>
+        <img class="pics-OIP" src="pics/OIP.jfif" alt="OIP" height="600"
+        <p></p>
+            <ul>
